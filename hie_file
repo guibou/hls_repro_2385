@@ -2,7 +2,6 @@
 library/Data/Quantities.hs
 library/Data/Quantities/Constructors.hs
 library/Data/Quantities/Data.hs
-library/Data/Quantities/DefaultUnits.hs
 library/Data/Units/Quantity.hs
 library/Data/Units/Unit.hs
 library/Data/Quantities/Constructors.hs-boot
