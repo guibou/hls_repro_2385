@@ -1,7 +1,5 @@
 -hide-all-packages
 -package-id
-data-default-0.7.1.1-BL6m2BngHMsBEQPEliYgNY
--package-id
 base-4.14.3.0
 -ilibrary
 library/Data/Quantities.hs
